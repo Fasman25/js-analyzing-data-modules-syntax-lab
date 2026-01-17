@@ -1,0 +1,33 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    display: flex;
+    background-color: aliceblue;
+    justify-content: center;
+    padding: 80px;
+}
+.container{
+    border-radius: 20px;
+    background: fixed;
+    padding: 40px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 1);
+    width: 350px;
+}
+input{
+    border-radius: 6px;
+    border: 5px solid #ddd;
+    width: 60%;
+    padding: 15px;
+}
+button{
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+    background-color: aqua;
+    padding: 15px;
+}
+.word-card{
+    margin-top: 30px;
+    border-top: 2px solid #eee;
+    padding-top: 25px;
+}
